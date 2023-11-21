@@ -1,2 +1,3 @@
 # local_notes
-Notes with Hive datasource 
+
+A new Flutter project.
